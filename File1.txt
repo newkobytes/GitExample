@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is my first code
 The changes are done as per the the suggestion
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ First add the code-> move into branch1 in remote repo-> commit, push here-> Then
 
 1
 2
+=======
+This is my first own trial
+>>>>>>> 47b10497301427e268d017278d85de634c85691f
