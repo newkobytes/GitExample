@@ -1,8 +1,8 @@
 This is my first code
 The changes are done as per the the suggestion
+<<<<<<< HEAD
 
 July 10 2022:
-My first trial commit
+First add the code-> move into branch1 in remote repo-> commit, push here-> Then pull origin master
 
-July 10 2022:
-Fist writing some code here to push it into the remore repo
+1
